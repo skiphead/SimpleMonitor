@@ -1,0 +1,15 @@
+{
+  "http": [
+    "http://padmins.ru",
+    "http://google.com"
+  ],
+  "https": [
+    "https://yandex.ru"
+  ],
+  "manual":[
+    "ip://smtp.yandex.ru:25"
+  ],
+  settings: {
+    "wwwData": "www/test.json"
+  }
+}

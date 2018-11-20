@@ -1,0 +1,8 @@
+{
+  "status": {
+    "http://www.gosniip.ru": "200",
+    "http://google.com": "200",
+    "https://yandex.ru:443": "OK",
+    "smtp.yandex.ru:25": "OK"
+  }
+}
