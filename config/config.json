@@ -9,7 +9,7 @@
   "manual":[
     "ip://smtp.yandex.ru:25"
   ],
-  settings: {
+  "settings": {
     "wwwData": "www/test.json"
   }
 }
